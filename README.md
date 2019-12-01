@@ -40,9 +40,13 @@ To execute a particular test by tag run below command on terminal by going to th
 
 mvn clean verify -Dmetafilter="+scenario name"
 
-For e.g. In our framework to execute the onlinePurchase , Execute below command
+For e.g. In our framework to execute the scenario 001 , Execute below command
 
-mvn clean verify -Dmetafilter="+onlinePurchase"
+mvn clean verify -Dmetafilter="+001"
+
+Multiple senarios can be run with below command:
+
+mvn clean verify -Dmetafilter="+001&& +002&& +003"
 
 Meta filtering the stories/scenario mvn clean verify -Dmetafilter="+SmokeTest" -- This command will run the scenarios with the tag, "SmokeTest" This way we can use this on CI-CD by tagging the test case under the different tags like regression , smoke , sanity etc...
 
