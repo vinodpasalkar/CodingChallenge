@@ -1,0 +1,66 @@
+{
+
+  "users": [
+    {
+      "username": "anujbetauser",
+      "password": "Password123",
+      "devices": [
+        "LEAK SENSOR",
+        "NANO2",
+        "SINGLE ZONE HEATING 3"
+      ]
+    },
+    {
+      "username": "anujbetauser3",
+      "password": "Password123",
+      "devices": []
+    },
+    {
+      "username": "narenbeta3",
+      "password": "1234",
+      "devices": ["LEAK SENSOR"]
+    },
+    {
+      "username": "actbeta1",
+      "password": "1234",
+      "devices": [
+        "NANO1",
+        "COLOUR LIGHT",
+        "PLUG",
+        "MOTION SENSOR",
+        "DOOR SENSOR",
+        "SINGLE ZONE HEATING 3"
+      ]
+    },
+    {
+      "username": "rudb1",
+      "password": "1234",
+      "devices": [
+        "LEAK SENSOR",
+        "NANO2",
+        "SINGLE ZONE HEATING 3",
+        "WARM WHITE LIGHT",
+        "TUNEABLE WHITE LIGHT",
+        "VIEW"
+      ]
+    },
+    {
+      "username": "v01",
+      "password": "1234",
+      "devices": [
+        "NANO2",
+        "SINGLE ZONE HEATING 3",
+        "WARM WHITE LIGHT",
+        "TUNEABLE WHITE LIGHT"
+      ]
+    },
+    {
+      "username": "rudb2",
+      "password": "1234",
+      "devices": [
+        "NANO1",
+        "WARM WHITE LIGHT"
+      ]
+    }
+  ]
+}
