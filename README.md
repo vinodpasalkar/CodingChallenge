@@ -34,6 +34,8 @@ Search below plugins one by one and install them
 
 5. Running your first test
 
+Please download the appropriate chromedriver file depending on your OS type and provide correct path for the same in the serenity.properties file.
+
 To execute a particular test by tag run below command on terminal by going to the project directory
 
 mvn clean verify -Dmetafilter="+scenario name"
