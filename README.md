@@ -52,6 +52,14 @@ Open index.html file in any browser to see the results.
 
 Below are sample report snapshots
 
+![Summary 1 screencapture-localhost-63342-websample-testsuite-Reports-report-01-12-2019-12-29-08-index-html-2019-12-01-11_31_21](https://user-images.githubusercontent.com/9302926/69921487-e697bb00-1489-11ea-99f8-6fb7339e5acc.png)
+
+![Summary 2 screencapture-localhost-63342-websample-testsuite-Reports-report-01-12-2019-12-29-08-index-html-2019-12-01-11_31_32](https://user-images.githubusercontent.com/9302926/69921489-e8fa1500-1489-11ea-911e-2a3e837bfb25.png)
+
+![Detailed Report screencapture-localhost-63342-websample-testsuite-Reports-report-01-12-2019-12-29-08-9d38dd95c0ef5363523b1afe6b113a16b3e9b8515a8fe9c16558c3d3b5e98e8b-html-2019-12-01-11_31_45](https://user-images.githubusercontent.com/9302926/69921491-edbec900-1489-11ea-97d2-fa96b052a1ff.png)
+
+![API Test Detailed Report screencapture-localhost-63342-websample-testsuite-Reports-report-01-12-2019-15-43-49-4cace042654761c4b57dac21d0683de7dd8a290e6aa0fa4d36b481c727f0baa9-html-2019-12-01-14_45_02](https://user-images.githubusercontent.com/9302926/69921492-f1525000-1489-11ea-95f2-073c70be0574.png)
+
 
 I have used serenity framework here.
 
