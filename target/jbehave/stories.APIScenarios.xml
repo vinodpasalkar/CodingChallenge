@@ -1,0 +1,17 @@
+<story path="stories/APIScenarios.story" title="">
+<narrative keyword="Narrative:">
+  <inOrderTo keyword="As a">user</inOrderTo>
+  <asA keyword="I want to">perform an action</asA>
+  <iWantTo keyword="So that">I can achieve a business goal</iWantTo>
+</narrative>
+<scenario keyword="Scenario:" title="Try to get information for non-existent locations and validate the response">
+<meta>
+<property keyword="@" name="006" value=""/>
+</meta>
+<step outcome="comment">!-- Try to hit the get data api for Newyork city
+Meta:
+@006</step>
+<step outcome="successful">Given I get the data for city <parameter>NEW</parameter></step>
+<step outcome="successful">Then It returns invalid response</step>
+</scenario>
+</story>

@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"API scenarios","Try to get information for non-existent locations and validate the response","SUCCESS","2019-12-02T14:56:12.52Z[Europe/London]","0.0","2.45"

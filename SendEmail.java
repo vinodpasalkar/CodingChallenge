@@ -18,8 +18,8 @@ class SendEmail {
     public static void main(String args[]) {
 
         String body;
-        final String username = "vinodpasalkarslough@gmail.com";
-        final String password = "surekha1912";
+        final String username = "test@gmail.com";
+        final String password = "testpassword";
         Properties props = new Properties();
         props.setProperty("mail.transport.protocol", "smtp");
         props.setProperty("mail.host", "smtp.gmail.com");
@@ -46,8 +46,8 @@ class SendEmail {
         try {
 
             Message message = new MimeMessage(session);
-            message.setFrom(new InternetAddress("vinodpasalkarslough@gmail.com"));
-            message.addRecipients(Message.RecipientType.TO, InternetAddress.parse("vinodpasalkarslough@gmail.com"));
+            message.setFrom(new InternetAddress("test@gmail.com"));
+            message.addRecipients(Message.RecipientType.TO, InternetAddress.parse("test@gmail.com"));
             message.setSubject("Android Run Results - modified explicit waits");
 
 

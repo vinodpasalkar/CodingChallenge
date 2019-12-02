@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Mon Dec 02 14:56:15 GMT 2019
+stories/APIScenarios.story=2000
+threads=1
+total=2000
+threadAverage=2000

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: net.webtestautomation.AcceptanceTestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.171 sec - in net.webtestautomation.AcceptanceTestSuite

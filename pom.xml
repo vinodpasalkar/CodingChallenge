@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.webtestautomation</groupId>
-    <artifactId>testsuite</artifactId>
+    <artifactId>codingChallenge</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Sample Web mobile test automation</name>
@@ -15,49 +15,10 @@
         <serenity.version>2.0.42</serenity.version>
         <serenity.jbehave.version>1.45.0</serenity.jbehave.version>
         <webdriver.driver>chrome</webdriver.driver>
-        <username>vinstage</username>
-        <password>Password10</password>
         <platform>Web</platform>
-        <newPassword>1234</newPassword>
-        <mailPassword>1234</mailPassword>
-        <hubFW>1.0.0-7002-N105.3</hubFW> <!--Please update your hub fw here, will be done in data model when we get sometime-->
-        <locale>enGB</locale> <!--Required only for actions stuff, not mandatory to give. This will be got from Omnia making a get locale call later.-->
-    </properties>
+        </properties>
     <!-- Profiles configuration for different environment-->
     <profiles>
-        <profile>
-            <id>beta</id>
-            <properties>
-                <build.profile.id>beta</build.profile.id>
-            </properties>
-        </profile>
-        <profile>
-            <id>production</id>
-            <properties>
-                <build.profile.id>production</build.profile.id>
-            </properties>
-        </profile>
-        <profile>
-            <id>staging</id>
-            <activation>
-                <activeByDefault>true</activeByDefault>
-            </activation>
-            <properties>
-                <build.profile.id>staging</build.profile.id>
-            </properties>
-        </profile>
-        <profile>
-            <id>naProduction</id>
-            <properties>
-                <build.profile.id>naProduction</build.profile.id>
-            </properties>
-        </profile>
-         <profile>
-            <id>internalProd</id>
-            <properties>
-               <build.profile.id>internalProd</build.profile.id>
-            </properties>
-        </profile>
     </profiles>
     <repositories>
       <repository>
@@ -224,32 +185,9 @@
                     <argLine>-Xmx512m</argLine>
                     <systemPropertyVariables>
                         <webdriver.driver>${webdriver.driver}</webdriver.driver>
-                        <username>${username}</username>
-                        <password>${password}</password>
-                        <newPassword>${newPassword}</newPassword>
-                        <platform>${platform}</platform>
-                        <mailPassword>${mailPassword}</mailPassword>
-                        <hubFW>${hubFW}</hubFW>
-                        <honeycombURL>${honeycomb.URL}</honeycombURL>
-                        <beekeeperURL>${beekeeper.URL}</beekeeperURL>
-                        <beekeeperLoginURL>${beekeeperLogin.URL}</beekeeperLoginURL>
-                        <XAPIKey>${x.api.key}</XAPIKey>
-                        <XAPIKeyTroubleShooting>${x.api.key.troubleshooting}</XAPIKeyTroubleShooting>
-                        <cameraSettingsUrl>${camera.settings.service.url}</cameraSettingsUrl>
-                        <eventHistoryUrl>${event.history.service.url}</eventHistoryUrl>
-                        <syntheticCameraServiceUrl>${synthetic.camera.service.url}</syntheticCameraServiceUrl>
                         <defaultTimezone>Europe/London</defaultTimezone>
-                        <oAuthUrl>${oAuth.url}</oAuthUrl>
-                        <honeycombToken>${honeycomb.token}</honeycombToken>
-                        <troubleshootingURL>${troubleshooting.URL}</troubleshootingURL>
-                        <leakAlertURL>${leakAlert.URL}</leakAlertURL>
-                        <testrailuser>xxxxxxxx</testrailuser>
-                        <testrailpassword>xxxxxxxx</testrailpassword>
-                        <testrailURL>xxxxxxxx</testrailURL>
-                        <testrailProject>xxxxxxxx</testrailProject>
-                        <testSuite>Automation Regression - ReactNative</testSuite>
+                        <testSuite>Sample Web Automation</testSuite>
                         <testRunName>Automation Regression</testRunName>
-                        <testUsersJsonPath>${basedir}/src/test/resources/environments/${build.profile.id}/users.json</testUsersJsonPath>
                         <locale>${locale}</locale>
                     </systemPropertyVariables>
                 </configuration>
@@ -273,9 +211,6 @@
                             <goal>read-project-properties</goal>
                         </goals>
                         <configuration>
-                            <files>
-                                <file>${basedir}/src/test/resources/environments/${build.profile.id}/config.properties</file>
-                            </files>
                         </configuration>
                     </execution>
                 </executions>
