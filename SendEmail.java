@@ -33,7 +33,6 @@ class SendEmail {
         //give mail content here - for now update everytime just before the run
         //we will see if any of these meaningful info can be generated using run time and attached instead or made as a part of the report
         body = "Run by : Give your name here\n" +
-                "Kit combination : Give the kit details like hub - heating - additional devices if anything specific \n" +
                 "\nBuild number : Give the build number that is used for running" +
                 "\nAdditional information : Give any specific information if needed";
         Session session = Session.getInstance(props,

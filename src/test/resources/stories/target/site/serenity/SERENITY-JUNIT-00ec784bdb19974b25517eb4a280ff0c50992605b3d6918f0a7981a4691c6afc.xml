@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="API scenarios" skipped="0" tests="1" time="27.64" timestamp="2019-12-01 03:40:47"><testcase name="Get each item (LON, MAN, CAM and LCS) individually and validate the response"><error message="java.lang.RuntimeException: java.io.IOException: Failed to bind to /0.0.0.0:8080" type="com.github.tomakehurst.wiremock.common.FatalStartupException">java.lang.RuntimeException: java.io.IOException: Failed to bind to /0.0.0.0:8080</error><system-err>java.lang.RuntimeException: java.io.IOException: Failed to bind to /0.0.0.0:8080
-com.github.tomakehurst.wiremock.WireMockServer.start(WireMockServer.java:148)
-net.webtestautomation.dataModel.APIDataModel.&lt;init&gt;(APIDataModel.java:28)
-net.webtestautomation.tests.APITests.getDataForCity(APITests.java:40)
-net.webtestautomation.definitions.APIScenariosStepsDefinitions.fetchDataForCity(APIScenariosStepsDefinitions.java:27)
-</system-err></testcase></testsuite>

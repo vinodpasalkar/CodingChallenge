@@ -2,290 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9efc14a8-6135-4e46-a547-fb58274cb472" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/AppUpgrades/Instructions.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/018e0e80cbdcdd1cf069a08af379f25278813386f9282fef1f0346755ac1a24a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/0296e31aeda87269d175f768390b354b9eee8f2f7bba93da51d6dc31d4e34526.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/0d306d5e7de5242a0f365829181fa5b86833ba9701ed5694345d29c2e0f668fb.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/0d306d5e7de5242a0f365829181fa5b86833ba9701ed5694345d29c2e0f668fb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/0d306d5e7de5242a0f365829181fa5b86833ba9701ed5694345d29c2e0f668fb_screenshots.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/0dfbcb5b2ba3c9e8a657023ffe728956b14c1350d16d7c1723fb9e428adea522.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/178758df5a4db05aa3d613e6d56ae5b840cd0891daaf74570372370ab1ac28b1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/29ec1cd88331b48ec6a958164ff5c82f7166de5c1cda6f9f8598449b8e84b5bd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/2a4631d87648e59c428d4cf0e9247f9d286e4679f436ca2ce872e931eb4dfd58.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/2e5679fe281ee29751ee4238bb2bd470b23033c4221c03c42cf8d90ff89cd195.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/397cae0916c8cdd7192721f0163cef7a074aba974ee1bc6bf7068a0c75738d3d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/563163a3d9b4c4778dba35af4839f3b86fb6882738312669388729f9d6e609bb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/5d4f7d18e3383868b76c6d1dbb65edecb8145b02339e920c626eaa632f9f5f57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/5ff6dabe5f8bf28e98cf334403162853b3c1d74b4f0ee460ab89324751c85bb6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/64146477c3c27b1831ecba790117093999b65038890b97dade8bad101a18f7ce.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/7235d739165f599920ce5d92b7e96b3a1b24335fbe42329ff0d167c8b7f8ac5c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/79e40d3e63604132db3b36728b02b68b41374ada14683f8123f66a2ab9405c3a.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/80131abd845fa8a3122c27ebcbaf25fe4a6474284400ed3fdec43e4bb4b636cf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/8124ebf395fa30ea948dd4bd98eab7f756784e2c6f5e02b9245b0b220009bb65.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/8124ebf395fa30ea948dd4bd98eab7f756784e2c6f5e02b9245b0b220009bb65.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/83cd3ca469c758b525d0feaa3162103f8c09c1146e3fab485e4099a2aadfef46.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/83cd3ca469c758b525d0feaa3162103f8c09c1146e3fab485e4099a2aadfef46.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/83cd3ca469c758b525d0feaa3162103f8c09c1146e3fab485e4099a2aadfef46_screenshots.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/939a8f8da8ee3515396fa09fc2b36f4dbf4f2c3408108370dd55adb4096dd0b5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/9d38dd95c0ef5363523b1afe6b113a16b3e9b8515a8fe9c16558c3d3b5e98e8b.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/9d38dd95c0ef5363523b1afe6b113a16b3e9b8515a8fe9c16558c3d3b5e98e8b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/9d38dd95c0ef5363523b1afe6b113a16b3e9b8515a8fe9c16558c3d3b5e98e8b_screenshots.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/SERENITY-JUNIT-9d38dd95c0ef5363523b1afe6b113a16b3e9b8515a8fe9c16558c3d3b5e98e8b.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/a019de606e435dfbfe3c635e52e65a594504c9d085b94a98518ed053c38013a5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/a32219abdd075fa10349e0f495bf90caf7e4cd77446d74a44d35426e2569579e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/android-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/android-icon-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/android-icon-36x36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/android-icon-48x48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/android-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/android-icon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/apple-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/apple-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/apple-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/apple-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/apple-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/apple-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/apple-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/apple-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/apple-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/apple-icon-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/apple-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bc44a5adf5891a0dff0126f96b93453f6c00ba40a8952aa7b880c766c79210ce.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bootstrap-treeview/dist/bootstrap-treeview.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bootstrap-treeview/dist/bootstrap-treeview.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bootstrap/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/bootstrap/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/browser-chrome.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/build-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/c1be599268fd31100c1b961d7a599b65effe45b523942ac84fd986ee12905917.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/capabilities.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/cf6476dcb49233ac1bbb7e1bc14b0c578719dc3fa1718a37d31318d273ea369c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/.bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/dist/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/tasks/aliases.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/tasks/clean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/tasks/copy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/tasks/jasmine.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/tasks/jshint.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/tasks/sass.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/tasks/uglify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/chartist-plugin-tooltip/tasks/umd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/dist/chartist.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/dist/chartist.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/dist/chartist.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/chartist/dist/chartist.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/css/core.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/css/link.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/css/screen.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/css/tables.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/datatables/1.10.19/datatables.bootstrap4.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/datatables/1.10.19/datatables.bootstrap4.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/datatables/1.10.19/datatables.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/datatables/1.10.19/datatables.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/dygraph/1.1.0/dygraph-combined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/e946ec174df8b79025fd09105733ca106c108d9103f6936d2eb1d64e3e1c9495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/excanvas/3/excanvas.compiled.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/excanvas/3/excanvas.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/f341bf7536360e327ff7218e91202631e46fb385678df612e5aacc1568b7e9a0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/f393f5ed551f1c095e91303e53194475c179d5a0eddc3597383460e90450c283.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/css/all.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/css/v4-shims.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/webfonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/webfonts/fa-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/webfonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/webfonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/webfonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/webfonts/fa-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/webfonts/fa-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/webfonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/webfonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/webfonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/webfonts/fa-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/webfonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/fontawesome-free-5.7.2-web/webfonts/fa-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/bg_01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/bg_04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/bottomm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/cross.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/driver-appium.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/driver-chrome.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/driver-firefox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/driver-htmlunit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/driver-iexplorer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/driver-opera.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/driver-phantomjs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/driver-provided.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/driver-remote.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/driver-safari.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/fail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/greenline.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/ico-q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/icon-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/ignor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/links_menu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/menu_f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/menu_h.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/menu_s.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/middle-left.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/middle-right.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/middle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/minus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/pending.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/plus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/screen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/serenity-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/skip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/small-middle-left.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/small-middle-right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/small-middle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/success.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/tablebg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/tick.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/top-left.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/top-right.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/top.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/topm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/traffic-green.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/traffic-in-progress.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/traffic-orange.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/traffic-red.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/traffic-yellow.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/video.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/images/worker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/2.0.1/jit-yc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/2.0.1/jit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/AreaChart.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/BarChart.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/ForceDirected.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/ForceDirected3D.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/HeatMap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/Hypertree.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/Icicle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/Other.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/PieChart.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/RGraph.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/Spacetree.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/Sunburst.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/TimeGraph.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/Treemap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/col1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/col2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jit/css/gradient.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqtree/0.22/jqtree-circle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqtree/0.22/jqtree.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqtree/0.22/tree.jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/external/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-bg_flat_55_999999_40x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-bg_flat_75_aaaaaa_40x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-bg_glass_45_0078ae_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-bg_glass_55_f8da4e_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-bg_glass_75_79c9ec_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-bg_gloss-wave_45_e14f1c_500x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-bg_gloss-wave_50_6eac2c_500x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-bg_gloss-wave_75_2191c0_500x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-icons_0078ae_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-icons_056b93_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-icons_d8e7f3_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-icons_e0fdff_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-icons_f5e175_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-icons_f7a50d_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/images/ui-icons_fcd113_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/jquery-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/jquery-ui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/jquery-ui.structure.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/jquery-ui.structure.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/jquery-ui.theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/jqueryui/1.11.2-start/jquery-ui.theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/ms-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/ms-icon-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/ms-icon-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/ms-icon-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/demo/demo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/demo/images/dev7logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/demo/images/nemo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/demo/images/toystory.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/demo/images/up.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/demo/images/walle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/demo/scripts/jquery-1.9.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/demo/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/jquery.nivo.slider.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/jquery.nivo.slider.pack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/nivo-slider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/nivoslider.jquery.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/themes/bar/arrows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/themes/bar/bar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/themes/bar/bullets.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/themes/bar/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/themes/dark/arrows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/themes/dark/bullets.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/themes/dark/dark.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/themes/dark/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/themes/default/bullets.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/themes/default/default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/themes/default/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/themes/light/arrows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/themes/light/bullets.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/themes/light/light.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/nivo-slider/3.2/themes/light/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/results.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/scripts/imgpreview.full.jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/scripts/jquery-1.11.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/scripts/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/serenity-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/report - 02-12-2019_15-17-23/summary.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SendEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/SendEmail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/net/webtestautomation/appium/AppiumProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/net/webtestautomation/appium/AppiumServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/net/webtestautomation/appium/AppiumServerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/environments/beta/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/environments/beta/users.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/environments/internalProd/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/environments/naProduction/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/environments/production/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/environments/qa/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/environments/staging/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/stories/APIScenarios.story" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/stories/APIScenarios.story" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/How to use.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/SameRepoMultipleDevices.command" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -295,55 +12,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/stories/SearchResults.story">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-708">
-              <caret line="212" column="39" selection-start-line="212" selection-start-column="39" selection-end-line="212" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="494">
-                <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SendEmail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="388">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/serenity.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -395,8 +71,8 @@
         <option value="$PROJECT_DIR$/src/test/resources/stories/APIScenarios.story" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/SendEmail.java" />
         <option value="$PROJECT_DIR$/serenity.properties" />
+        <option value="$PROJECT_DIR$/SendEmail.java" />
       </list>
     </option>
   </component>
@@ -424,98 +100,6 @@
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="Reports" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-            <path>
-              <item name="CodingChallenge" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CodingChallenge" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CodingChallenge" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CodingChallenge" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="net" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CodingChallenge" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="net" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webtestautomation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CodingChallenge" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="net" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webtestautomation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="dataModel" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CodingChallenge" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="net" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webtestautomation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="definitions" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CodingChallenge" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="net" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webtestautomation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="pages" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CodingChallenge" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="net" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webtestautomation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="requests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CodingChallenge" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="net" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="webtestautomation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CodingChallenge" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -525,7 +109,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575306526416" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575307123947" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -668,13 +252,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/stories/SearchResults.story">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/How to use.rtf">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -699,6 +276,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/serenity.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/stories/SearchResults.story">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-708">
@@ -720,18 +311,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SendEmail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="388">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/serenity.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
         </state>
       </provider>
     </entry>
