@@ -6,22 +6,21 @@ This maven project demonstrates various styles of writing jbehave scenarios with
 
 
 Please Install below
-> Install java
-> Install brew or home-brew:
-> Install Maven
+# Install java
+# Install brew or home-brew:
+# Install Maven
 
 
 Set up instructions :
 
 1. Download and install IntelliJ Idea Community version 
 
-
-2. Clone the below repository in IntelliJ Idea : https://github.com/vinodpasalkar/SampleWebTest/ (Just clone this project in InteliJ idea community Edition 
+2. Clone the below repository in IntelliJ Idea : https://github.com/vinodpasalkar/CodingChallenge (Just clone this project in InteliJ idea community Edition 
 and Go to Menu > Build > Build Project Once the build is completed/compiled successfully)
 
 3. Ensure you have maven installed in your system - command from terminal -> brew install maven
 
-4. Install below IntelliJ plugins by going to below navigation
+4. Install below IntelliJ plugins by going to below navigation ( This will help in code navigation)
 
 IntelliJ Idea > Menu > IntelliJ Idea > Preferences > Plugins > Marketplace 
 
@@ -44,9 +43,9 @@ For e.g. In our framework to execute the scenario 001 , Execute below command
 
 mvn clean verify -Dmetafilter="+001"
 
-Multiple senarios can be run with below command:
+Multiple scenarios can be run with below command:
 
-mvn clean verify -Dmetafilter="+001&& +002&& +003"
+mvn clean verify -Dmetafilter="+001 && +002 && +003"
 
 Meta filtering the stories/scenario mvn clean verify -Dmetafilter="+SmokeTest" -- This command will run the scenarios with the tag, "SmokeTest" This way we can use this on CI-CD by tagging the test case under the different tags like regression , smoke , sanity etc...
 

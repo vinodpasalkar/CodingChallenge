@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search results","Search and verify results on ebay wesite for a non-registered user.","SUCCESS","2019-12-02T14:17:34.029Z[Europe/London]","0.0","55.41"
+"Search results","Search per category on ebay website for a non-registered user.","SUCCESS","2019-12-02T14:18:29.676Z[Europe/London]","0.0","17.66"
+"Search results","Search and navigate through results pages for a non-registered user.","SUCCESS","2019-12-02T14:18:47.342Z[Europe/London]","0.0","24.53"
