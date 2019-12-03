@@ -13,6 +13,7 @@ public class SearchResultsTests {
     private SearchResultsPage searchResultsPage;
 
     public void goAndCheckNonRegisteredUserOnTheWebPage() {
+        searchResultsPage = new SearchResultsPage();
         searchResultsPage.gotoSiteOnBrowser();
         generateStep("Opened ebay website");
     }

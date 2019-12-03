@@ -2,7 +2,7 @@ package net.webtestautomation.pages;
 
 import io.appium.java_client.pagefactory.AndroidFindBy;
 import io.appium.java_client.pagefactory.iOSFindBy;
-import net.serenitybdd.core.annotations.findby.FindBy;
+import org.openqa.selenium.support.FindBy;
 import net.thucydides.core.annotations.Step;
 import net.thucydides.core.webdriver.WebDriverFacade;
 import net.webtestautomation.pages.mobilePage.MobilePageObject;
@@ -10,17 +10,23 @@ import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-
+import io.github.bonigarcia.wdm.WebDriverManager;
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
 import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 //This class is used for all UI actions and extends common class MobilePageObject which contains driver and common methods
-public class SearchResultsPage extends MobilePageObject {
+public class SearchResultsPage  {
 
     @FindBy(xpath="//img[@id='gh-logo']")
     @AndroidFindBy(xpath="")
@@ -82,7 +88,6 @@ public class SearchResultsPage extends MobilePageObject {
     public void generateStep(String s){
     }
 
-
    String matchingResult = "//h3[contains(text(),'searchString')]";
    String filerOption = "//span[contains(text(),'FilterOption')]";
    String categoryString = "//a[contains(text(),\"categoryName\")]";
@@ -90,29 +95,29 @@ public class SearchResultsPage extends MobilePageObject {
 
     private  String platform = System.getProperty("platform");
 
-    private final WebDriver driver;
+    //Added this to use driver in this base class
+    private  WebDriver driver ;
 
     List<BigDecimal> DoubleList1 = new ArrayList<BigDecimal>();
     List<BigDecimal> DoubleList2 = new ArrayList<BigDecimal>();
     /*Array list named as sortedPrices and passing integer list into it to sort*/
     ArrayList<BigDecimal> sortedPrices = new ArrayList<BigDecimal>(DoubleList1);
 
-    public SearchResultsPage(WebDriver driver) {
-        super(driver);
-        WebDriver facade = getDriver();
-        this.driver = ((WebDriverFacade) facade).getProxiedDriver();
+    public SearchResultsPage() {
+
+        WebDriverManager.chromedriver().setup();
+        //Create driver object for Chrome
+        this.driver = new ChromeDriver();
+        PageFactory.initElements(driver, this);
     }
 
     //Opens the given website in the browser
     public void gotoSiteOnBrowser() {
-        if(platform.equalsIgnoreCase("Web")){
-            System.out.println("Launching the site in browser");
-            driver.get("http://www.ebay.co.uk/");
-            generateStep("Ebay site is launched successfully");
-        }
-        else{
-            Assert.fail("Failed to open the site");
-        }
+
+        System.out.println("Launching the site in browser");
+        driver.get("http://www.ebay.co.uk/");
+        generateStep("Ebay site is launched successfully");
+
         if(registerLink.isDisplayed()){
             generateStep("Non-registered user is using the site");
         }
@@ -120,7 +125,6 @@ public class SearchResultsPage extends MobilePageObject {
             Assert.fail("Registered user is using the site");
 
         }
-
     }
 
     //Verifies the Ebay site Logo
@@ -156,7 +160,6 @@ public class SearchResultsPage extends MobilePageObject {
         searchButton.click();
         generateStep("Searched for an item "+itemName);
     }
-
 
     //Verifies the results are matching to the search item
     public void verifyResultOnUI(String searchItemString) {
@@ -203,7 +206,6 @@ public class SearchResultsPage extends MobilePageObject {
         else{
             generateStep("Buy it Now tags are not shown");
         }
-
     }
 
     public void verifyItemsOrder() {
@@ -211,11 +213,9 @@ public class SearchResultsPage extends MobilePageObject {
     }
 
     private void verifySortOrderOnUI() {
-
         getPricesBefore();
         getPricesAfter();
         Assert.assertEquals(DoubleList1,DoubleList2);
-
     }
 
     private void getPricesBefore() {
@@ -278,7 +278,6 @@ public class SearchResultsPage extends MobilePageObject {
 
     private void selectSortValue(String sortValue) {
         mouseOverElement(filterMenu);
-        //filterMenu.click();
         switch(sortValue.toUpperCase()){
             case "LOWEST PRICE":
                 lowestPriceFilter.click();
@@ -319,7 +318,7 @@ public class SearchResultsPage extends MobilePageObject {
         categoryString = categoryString.replace("categoryName",searchCategory);
         searchTextBox.sendKeys(searchTerm);
         categoryMenu.click();
-        mobClickElement(driver.findElement(By.xpath(categoryString)));
+        driver.findElement(By.xpath(categoryString)).click();
     }
 
     public void checkResultsForCategoryOnUI(String searchCategory) {
@@ -368,6 +367,25 @@ public class SearchResultsPage extends MobilePageObject {
                 break;
             default:
                 Assert.fail("Please provide valid filter option, "+filterOption+" seems invalid");
+        }
+    }
+
+    public void mouseOverElement(WebElement element)
+    {
+        System.out.println("Hovering over an element");
+        generateStep("Hovering over an element");
+        Actions actions = new Actions(driver);
+        actions.moveToElement(element).perform();
+    }
+
+
+    //Scrolls on the page until element is visible
+    public void scrollOnPage(WebElement element){
+        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", element);
+        try {
+            Thread.sleep(500);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
         }
     }
 
